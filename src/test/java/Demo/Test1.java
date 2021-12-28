@@ -23,6 +23,9 @@ public class Test1 {
 			public void launchbrowser()
 			{
 				System.out.println("iam in before test");
+				System.out.println("iam in before testtt");
+				System.out.println("iam in before test11");
+				
 			}
 		@BeforeClass
 		public void login()
