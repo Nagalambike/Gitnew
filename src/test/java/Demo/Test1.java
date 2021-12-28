@@ -17,6 +17,7 @@ public class Test1 {
 		public void setup()
 		{
 			System.out.println("Iam in before suite");
+			System.out.println("good morning have a good day");
 		}
 		@BeforeTest
 			public void launchbrowser()
